@@ -1,7 +1,9 @@
-Phonegap Parse.com Plugin
+Cordova Parse Plugin
 =========================
 
-Phonegap 3.0.0 plugin for Parse.com push service
+This is a Fork of [This Repo](https://github.com/avivais/phonegap-parse-plugin/)
+
+Cordova 3.0.0 plugin for Parse.com push service
 
 Using [Parse.com's](http://parse.com) REST API for push requires the installation id, which isn't available in JS
 
