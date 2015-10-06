@@ -136,7 +136,7 @@ Compatibility
 Phonegap > 3.0.0
 
 
-Update
+Parse Library Update
 -------------
-Parse Frameworks iOS 1.8.5 , Android 1.10.2
+Parse Frameworks iOS 1.8.5 
 
